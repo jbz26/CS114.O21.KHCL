@@ -1,7 +1,7 @@
 <p align="center">
 <img src ="https://www.uit.edu.vn/sites/vi/files/banner_uit.png">
-  
-#CS114.O21.KHCL
+
+<header> CS114.O21.KHCL </header>
 </p>
 Hi guy, My name's Nguyen To Thien Bao. <br/>
 Student ID: 21521857 <br/>
