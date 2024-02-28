@@ -1,5 +1,5 @@
 <p align="center">
-<img width="200" scr = "https://github.com/jbz26/CS114.O21.KHCL/assets/94024704/be8bd25c-78e8-46ba-82bf-bf56e72ba081](https://www.uit.edu.vn/sites/vi/files/banner_uit.png">
+<img width="200" scr = "https://www.uit.edu.vn/sites/vi/files/banner_uit.png">
 # CS114.O21.KHCL
 </p>
 Hi guy, My name's Nguyen To Thien Bao. <br/>
