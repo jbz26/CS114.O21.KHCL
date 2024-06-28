@@ -42,6 +42,6 @@
 <a name="thanhvien"></a>
 | STT    | MSSV          | Họ và Tên              | Github                                               | Email                   |
 | ------ |:-------------:| ----------------------:|-----------------------------------------------------:|-------------------------:
-| 1      | 21521857      | Nguyễn Ngọc Lan Phương |[lphuong304](https://github.com/lphuong304)          |21521857@gm.uit.edu.vn   |
+| 1      | 21521857      | Nguyễn Ngọc Lan Phương |[jbz26]([https://github.com/lphuong30](https://github.com/jbz26))          |21521857@gm.uit.edu.vn   |
 
 
